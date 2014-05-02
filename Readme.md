@@ -1,3 +1,3 @@
-# My python essential scripts
+# My python scripts
 
 + pngquant : http://pngquant.org/

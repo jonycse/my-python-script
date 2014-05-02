@@ -1,4 +1,0 @@
-1. Extract file "pngquant-windows.zip"
-2. paste all image into "test" folder
-3. double click file "png_quant.bat"
-4. Node all optimize images into folder "test"

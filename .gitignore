@@ -1,4 +1,5 @@
-jony.txt
-*.pyc
-a.py
+jony.*
+cu.txt
 test.py
+*.pyc
+a.*
