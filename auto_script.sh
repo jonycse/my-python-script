@@ -1,6 +1,6 @@
 cd "D:\WORKING\my_git\python_scripts"
 git add --all
-git commit -m "Auto script added"
+git commit -m "Titanium image move script added"
 # git commit -m "`date`"
 echo ""
 echo "***************************************"
