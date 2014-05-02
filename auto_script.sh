@@ -1,6 +1,6 @@
 cd "D:\WORKING\my_git\python_scripts"
 git add --all
-git commit -m "Url request added"
+git commit -m "Duplicate file checker added"
 # git commit -m "`date`"
 echo ""
 echo "***************************************"
