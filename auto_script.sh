@@ -1,6 +1,6 @@
 cd "D:\WORKING\my_git\python_scripts"
 git add --all
-git commit -m "readme change "
+git commit -m "IMDB script added"
 # git commit -m "`date`"
 echo ""
 echo "***************************************"
