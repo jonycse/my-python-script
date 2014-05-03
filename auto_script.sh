@@ -1,6 +1,6 @@
 cd "D:\WORKING\my_git\python_scripts"
 git add --all
-git commit -m "Git ignore change"
+git commit -m "Test Readme change"
 # git commit -m "`date`"
 echo ""
 echo "***************************************"
