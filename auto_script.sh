@@ -1,6 +1,6 @@
 cd "D:\WORKING\my_git\python_scripts"
 git add --all
-git commit -m "Test Readme change"
+git commit -m "Push all script added"
 # git commit -m "`date`"
 echo ""
 echo "***************************************"
