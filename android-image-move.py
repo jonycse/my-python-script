@@ -1,6 +1,7 @@
 from datetime import datetime
 import os, shutil
 
+# valid file anme "icon1.0.png", "icon1.5.png", "icon2.0.png", "icon3.0.png"
 VALID_FILE = ["1.0.png", "1.5.png", "2.0.png", "3.0.png"]
 VALID_FILE_PATH = ["drawable-mdpi", "drawable-hdpi", "drawable-xhdpi", "drawable-xxhdpi"]
 IS_DELETE_FILE_AFTER_MOVE = False
